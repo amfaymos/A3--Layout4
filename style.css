@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: center;
+}
+
+.header {
+    overflow: hidden;
+}
+
+.headerLogo {
+    background-color: #5c5f58;
+    height: 65px;
+    width: 15%;
+    float: left;
+}
+
+.headerNav {
+    background-color: #9c9c9c;
+    height: 30px;
+    width: 85%;
+    float: right
+}
+
+.upperBar {
+    background-color: #009499;
+    height: 60px;
+    width: 100%;
+}
+
+.emptyTop {
+    background-color: white;
+    height: 20px;
+    width: 100%;
+}
+
+.blocks {
+    overflow: hidden;
+}
+
+.blockLeft {
+    background-color: #ff6913;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+
+.blockMiddle {
+    background-color: #3f3f3f;
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+
+.midUpper {
+    background-color: #004e7c;
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+.centerBlock {
+    background-color: #808080;
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.centerLeft {
+    background-color: #009499;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+
+.centerRight {
+    background-color: #818181;
+    height: 100%;
+    width: 50%;
+    float: right;
+}
+
+.midBottom {
+    background-color: #004e7c;
+    height: 100px;
+}
+
+.blockRight {
+    background-color: #ff6913;
+    height: 400px;
+    width: 25%;
+    float: right;
+}
+
+.emptyBottom {
+    background-color: white;
+    height: 20px;
+    width: 100%;
+}
+
+.footer {
+    background-color: #009499;
+    height: 60px;
+    width: 100%;
+}
